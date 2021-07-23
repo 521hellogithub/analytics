@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 - Time on Page metric available in detailed Top Pages report plausible/analytics#1007
 - Added `CLICKHOUSE_FLUSH_INTERVAL_MS` and `CLICKHOUSE_MAX_BUFFER_SIZE` configuration parameters
 - Ability to invite users to sites with different roles plausible/analytics#1122
+- Option to configure a custom name for the script file
 
 ### Fixed
 - Fix weekly report time range plausible/analytics#951
